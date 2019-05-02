@@ -8,6 +8,7 @@ namespace web_buld_test
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Init build test");
+            Console.WriteLine("Your mum the big gay, snips");
             string FreezeOpen = Console.ReadLine();
         }
     }
