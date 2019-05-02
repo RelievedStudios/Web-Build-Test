@@ -7,6 +7,7 @@ namespace web_buld_test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Init build test");
             string FreezeOpen = Console.ReadLine();
         }
     }
