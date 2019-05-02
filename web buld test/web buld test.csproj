@@ -17,8 +17,4 @@
     <PlatformTarget>x64</PlatformTarget>
   </PropertyGroup>
 
-  <PropertyGroup>
-    <PublishWithAspNetCoreTargetManifest>false</PublishWithAspNetCoreTargetManifest>
-  </PropertyGroup>
-
 </Project>
